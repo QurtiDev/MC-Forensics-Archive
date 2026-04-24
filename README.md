@@ -7,4 +7,4 @@ Disclaimer: This is very rushed it's simply to hold the stuff and share the know
 
 
 
-I also don't know how safe or trusted some of these scripts are, so be careful especially with .exe files; I personally wouldn’t run random executables as "screenshare" tools but here they're. Responsibility lies entirely with you, the reader. 
+I also don't know how safe or trusted some of these scripts are, so be careful especially with .exe files; I personally wouldn't run random executables as "screenshare" tools but here they're. Responsibility lies entirely with you, the reader. 
