@@ -1,0 +1,1 @@
+https://github.com/spokwn/process-parser/releases/tag/v0.5.4
